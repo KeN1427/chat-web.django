@@ -4,7 +4,7 @@ Chat web application built with Django
 ## Concept
 模擬用チャットアプリ
 
-## features
+## Features
 - First step: chat to bot
   - サインアップ・ログイン/ログアウト
   - メッセージ送信機能
